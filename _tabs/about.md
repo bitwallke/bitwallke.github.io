@@ -4,7 +4,7 @@ title: About Us
 icon: fas fa-info-circle
 order: 4
 ---
-![Bitwall.ke Banner](/assets/img/blogs/bird.png)
+![Bitwall.ke Banner](/assets/img/bitwall_logo%20(1).jpg)
 
 ## Who We Are
 
