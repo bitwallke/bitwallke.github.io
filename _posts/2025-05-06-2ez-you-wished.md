@@ -6,7 +6,7 @@ tags: [steganography]
 render_with_liquid: true
 
 ---
-![kiwi khaos](/assets/img/blogs/kiwi.png)
+![kiwi khaos](/assets/img/blogs/2ez.png)
 
 ---
 
