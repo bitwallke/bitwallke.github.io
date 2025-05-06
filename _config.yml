@@ -19,7 +19,7 @@ title: bitwall.ke # the main title
 tagline: Hack the Threat. Build the Wall. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog.bitwall.ke is a cybersecurity-focused blog exploring real-world threats, CTF challenges, web application security, and defensive techniques, crafted from a cybersecurity perspective. Whether you're a beginner or a seasoned hacker, we break down complex topics into actionable insights to help you stay ahead in the digital game.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

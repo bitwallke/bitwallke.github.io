@@ -4,11 +4,11 @@ title: About Us
 icon: fas fa-info-circle
 order: 4
 ---
-![Bitwall.ke Banner](/assets/img/logo.png)
+![Bitwall.ke Banner](/assets/img/blogs/bird.png)
 
 ## Who We Are
 
-**Bitwall.ke** is a Kenyan-based cybersecurity blog dedicated to unpacking the evolving world of web security, digital threats, and defensive technologies. We bridge the gap between technical insight and practical application, providing content that empowers developers, researchers, and IT professionals to build more secure systems.
+**Bitwall.ke** is a cybersecurity company dedicated to unpacking the evolving world of web security, digital threats, and defensive technologies. We bridge the gap between technical insight and practical application, providing content that empowers developers, researchers, and IT professionals to build more secure systems.
 
 ## Our Mission
 
