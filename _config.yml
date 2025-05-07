@@ -41,7 +41,7 @@ social:
     - https://x.com/BitwallKe # change to your Twitter homepage
     - https://github.com/bitwallke # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/profile.php?id=61573197057617
+    #- https://www.facebook.com/profile.php?id=61573197057617
     - https://www.linkedin.com/company/bitwall-ke
 
 # Site Verification Settings
@@ -109,7 +109,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -119,15 +119,15 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    repo: bitwallke/bitwall-discussions # <gh-username>/<repo>
+    repo_id: R_kgDOOl3gCQ
+    category: General
+    category_id: DIC_kwDOOl3gCc4Cp3wn
+    mapping: pathname # optional, default to 'pathname'
+    strict: 0 # optional, default to '0'
+    input_position: bottom # optional, default to 'bottom'
+    lang: en # optional, default to the value of `site.lang`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
